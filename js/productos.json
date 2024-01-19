@@ -1,0 +1,202 @@
+[
+    {
+        "id": "abrigo-01",
+        "titulo": "Remera Oversize Naranja",
+        "imagen": "./img/abrigos/01.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "abrigo-02",
+        "titulo": "Remera Oversize Wonderfull",
+        "imagen": "./img/abrigos/02.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 5500
+    },
+    {
+        "id": "abrigo-03",
+        "titulo": "Remera Oversize Attitude",
+        "imagen": "./img/abrigos/03.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "abrigo-04",
+        "titulo": "Remera Oversize Attitude",
+        "imagen": "./img/abrigos/04.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 7500
+    },
+    {
+        "id": "abrigo-05",
+        "titulo": "Remera Oversize NASA",
+        "imagen": "./img/abrigos/05.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 8000
+    },
+    {
+        "id": "abrigo-06",
+        "titulo": "Remera Oversize Negra Estampada",
+        "imagen": "./img/abrigos/06.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "abrigo-07",
+        "titulo": "Remera Oversize Negra Estampada",
+        "imagen": "./img/abrigos/07.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 6500
+    },
+    {
+        "id": "abrigo-08",
+        "titulo": "Remera Sport Fitness Nike Hombre",
+        "imagen": "./img/abrigos/08.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 0
+    },
+    {
+        "id": "abrigo-09",
+        "titulo": "Remera Sport Fitness Hombre",
+        "imagen": "./img/abrigos/09.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 0
+    },
+    {
+        "id": "abrigo-10",
+        "titulo": "Remera Sport Fitness Mujer",
+        "imagen": "./img/abrigos/10.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-11",
+        "titulo": "Remerita a Rayas Mujer",
+        "imagen": "./img/abrigos/11.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 3600
+    },
+    {
+        "id": "abrigo-12",
+        "titulo": "Remera Sport Fitness Mujer",
+        "imagen": "./img/abrigos/12.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 7000
+    },
+    {
+        "id": "abrigo-13",
+        "titulo": "Top Premium PFIII",
+        "imagen": "./img/abrigos/13.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "abrigo-14",
+        "titulo": "Top Premium PFIII",
+        "imagen": "./img/abrigos/14.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "abrigo-15",
+        "titulo": "Top Deportivo Femenino Negro",
+        "imagen": "./img/abrigos/15.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "abrigo-16",
+        "titulo": "Top Deportivo Femenino Negro",
+        "imagen": "./img/abrigos/16.jpg",
+        "categoria": {
+            "nombre": "Remeras y Tops",
+            "id": "Remeras y Tops"
+        },
+        "precio": 4000
+    },
+    {
+        "id": "camiseta-01",
+        "titulo": "Calsa Deportiva Negra",
+        "imagen": "./img/camisetas/01.jpg",
+        "categoria": {
+            "nombre": "Shorts y Calzas",
+            "id": "Shorts y Calzas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "camiseta-02",
+        "titulo": "Calsa Deportiva Rosado",
+        "imagen": "./img/camisetas/02.jpg",
+        "categoria": {
+            "nombre": "Shorts y Calzas",
+            "id": "Shorts y Calzas"
+        },
+        "precio": 5000
+    },
+    {
+        "id": "pantalon-01",
+        "titulo": "Conjunto Deportivo Rosado",
+        "imagen": "./img/pantalones/01.jpg",
+        "categoria": {
+            "nombre": "Conjuntos Deportivos",
+            "id": "Conjuntos Deportivos"
+        },
+        "precio": 9000
+    },
+    {
+        "id": "pantalon-02",
+        "titulo": "Conjunto Deportivo Negro",
+        "imagen": "./img/pantalones/02.jpg",
+        "categoria": {
+            "nombre": "Conjuntos Deportivos",
+            "id": "Conjuntos Deportivos"
+        },
+        "precio": 9000
+    }
+]
